@@ -4,8 +4,8 @@ const basePath = process.env.NODE_ENV === "production" ? "/Resume-Nextjs" : "";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath,
-  assetPrefix: basePath,
+  basePath: "/portfolio",
+  assetPrefix: "/portfolio",
   images: {
     unoptimized: true,
   },
