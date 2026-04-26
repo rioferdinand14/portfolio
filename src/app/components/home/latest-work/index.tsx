@@ -128,7 +128,7 @@ const LatestWork = () => {
                 }}
               >
                 <Image
-                  src="/images/icon/close-icon.svg"
+                  src={getImgPath("/images/icon/close-icon.svg")}
                   width={30}
                   height={30}
                   alt="close icon"
@@ -187,7 +187,8 @@ const LatestWork = () => {
                           (tech: string, i: number) => (
                             <span
                               key={i}
-                              className="bg-softGray text-black px-3 py-1.5 rounded-lg text-sm font-medium">
+                              className="bg-softGray text-black px-3 py-1.5 rounded-lg text-sm font-medium"
+                            >
                               {tech}
                             </span>
                           ),
