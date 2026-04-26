@@ -4,19 +4,19 @@
       {
         "type": "email",
         "label": "riof414@gmail.com",
-        "icon": "/images/icon/mail-icon.svg",
+        "icon": "/portfolio/images/icon/mail-icon.svg",
         "link": "mailto:riof414@gmail.com"
       },
       {
         "type": "phone",
         "label": "+62 851 5681 1310",
-        "icon": "/images/icon/call-icon.svg",
+        "icon": "/portfolio/images/icon/call-icon.svg",
         "link": "tel:+6285156811310"
       },
       {
         "type": "linkedin",
         "label": "Rio Ferdinand",
-        "icon": "/images/icon/linkedin-icon.svg",
+        "icon": "/portfolio/images/icon/linkedin-icon.svg",
         "link": "https://www.linkedin.com/in/rioferdinandd"
       }
     ]
@@ -39,32 +39,32 @@
     "skills": [
       {
         "name": "Laravel",
-        "icon": "/images/home/education-skill/laravel-icon.svg",
+        "icon": "/portfolio/images/home/education-skill/laravel-icon.svg",
         "rating": 5
       },
       {
         "name": "SQL",
-        "icon": "/images/home/education-skill/sql-icon.svg",
+        "icon": "/portfolio/images/home/education-skill/sql-icon.svg",
         "rating": 5
       },
       {
         "name": "JavaScript",
-        "icon": "/images/home/education-skill/javascript-icon.svg",
+        "icon": "/portfolio/images/home/education-skill/javascript-icon.svg",
         "rating": 4
       },
       {
         "name": "Git",
-        "icon": "/images/home/education-skill/git-icon.svg",
+        "icon": "/portfolio/images/home/education-skill/git-icon.svg",
         "rating": 5
       },
       {
         "name": "Python",
-        "icon": "/images/home/education-skill/python-icon.svg",
+        "icon": "/portfolio/images/home/education-skill/python-icon.svg",
         "rating": 3
       },
       {
         "name": "Tensorflow",
-        "icon": "/images/home/education-skill/tensorflow-icon.svg",
+        "icon": "/portfolio/images/home/education-skill/tensorflow-icon.svg",
         "rating": 3
       }
     ]

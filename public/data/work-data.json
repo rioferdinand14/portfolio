@@ -1,7 +1,7 @@
 {
   "workData": [
     {
-      "image": "/images/work/work-img-1.png",
+      "image": "/portfolio/images/work/work-img-1.png",
       "title": "Music Recommendation App",
       "client": "Undergraduate Final Project",
       "slug": "music-recommendation-app",
@@ -10,7 +10,7 @@
       "tech": ["Laravel", "Flask", "Machine Learning"]
     },
     {
-      "image": "/images/work/work-img-2.png",
+      "image": "/portfolio/images/work/work-img-2.png",
       "title": "Food Image-Based Recipe Detection",
       "client": "Laskar AI Capstone Project",
       "slug": "food-image-based-recipe-detection",
@@ -19,7 +19,7 @@
       "tech": ["Streamlit", "Computer Vision", "Deep Learning"]
     },
     {
-      "image": "/images/work/work-img-3.png",
+      "image": "/portfolio/images/work/work-img-3.png",
       "title": "Breast Cancer Classification",
       "client": "Laskar AI MLOps Project",
       "slug": "breast-cancer-classification",
@@ -28,7 +28,7 @@
       "tech": ["Streamlit", "MLOps", "Computer Vision", "Deep Learning"]
     },
     {
-      "image": "/images/work/work-img-4.png",
+      "image": "/portfolio/images/work/work-img-4.png",
       "title": "Website Bantu Mereka",
       "client": "Project Based Learning",
       "slug": "bantu-mereka",
@@ -37,7 +37,7 @@
       "tech": ["Laravel", "MySQL"]
     },
     {
-      "image": "/images/work/work-img-5.png",
+      "image": "/portfolio/images/work/work-img-5.png",
       "title": "Meditech Pharmacy App",
       "client": "Project Based Learning",
       "slug": "meditech-pharmacy-app",
@@ -46,7 +46,7 @@
       "tech": ["PHP", "API"]
     },
     {
-      "image": "/images/work/work-img-6.png",
+      "image": "/portfolio/images/work/work-img-6.png",
       "title": "Yonsei Coop Android App",
       "client": "Project Based Learning",
       "slug": "yonsei-coop-app",
@@ -55,7 +55,7 @@
       "tech": ["Flutter", "Full Stack Development"]
     },
     {
-      "image": "/images/work/work-img-7.png",
+      "image": "/portfolio/images/work/work-img-7.png",
       "title": "Yonsei Coop Web Store",
       "client": "Project Based Learning",
       "slug": "yonsei-coop-web-store",
@@ -64,7 +64,7 @@
       "tech": ["Laravel", "Bootstrap", "Frontend Development"]
     },
     {
-      "image": "/images/work/work-img-8.png",
+      "image": "/portfolio/images/work/work-img-8.png",
       "title": "Danone Site Redesign",
       "client": "Project Based Learning",
       "slug": "danone-site-redesign",
