@@ -1,0 +1,76 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.png",
+      "title": "Music Recommendation App",
+      "client": "Undergraduate Final Project",
+      "slug": "music-recommendation-app",
+      "description": "This project implements a content-based music recommendation system using Spotify audio features (tempo, valence, danceability, energy, and genre) to recommend songs based on musical similarity based on what the user likes. The system applies cosine similarity for interpretable, cold-start–friendly recommendations.The pipeline was built in python, deployed via Flask API, and integrated into a Laravel web application. Model quality was evaluated using Mean Opinion Score (MOS) to assess user-perceived relevance and expose the limitations of purely content-based approaches.",
+      "subImage": "",
+      "tech": ["Laravel", "Flask", "Machine Learning"]
+    },
+    {
+      "image": "/images/work/work-img-2.png",
+      "title": "Food Image-Based Recipe Detection",
+      "client": "Laskar AI Capstone Project",
+      "slug": "food-image-based-recipe-detection",
+      "description": "This project is a computer vision application designed to recognize 32 types of traditional Indonesian cuisine and provide its recipes. As a part of team of four, I built an end-to-end data pipeline, including a custom script to automatically partition datasets (70:15:15) to ensure zero data leakage. To overcome overfitting, I implemented robust data augmentation strategies and fine-tuned the MobileNetV2 architecture by adding a custom CNN head with Dropout layers. I also utilized callbacks like Early Stopping to optimize training. This project reinforced my understanding that a robust data pipeline is just as critical as the model architecture itself.",
+      "subImage": "",
+      "tech": ["Streamlit", "Computer Vision", "Deep Learning"]
+    },
+    {
+      "image": "/images/work/work-img-3.png",
+      "title": "Breast Cancer Classification",
+      "client": "Laskar AI MLOps Project",
+      "slug": "breast-cancer-classification",
+      "description": "This project focuses on the automation and deployment of a Machine Learning model for breast cancer detection. I utilized Random Forest with Recursive Feature Elimination (RFE) to identify key attributes out of the datasets. I implemented a Continous Integration pipeline using GitHub Actions to ensure code quality and automated training upon every commit. I learned how to integrate MLflow for experiment tracking, Docker for containerization, Prometheus for real-time system monitoring, and Grafana for visualizing key metrics like request latency and prediction throughput.",
+      "subImage": "",
+      "tech": ["Streamlit", "MLOps", "Computer Vision", "Deep Learning"]
+    },
+    {
+      "image": "/images/work/work-img-4.png",
+      "title": "Website Bantu Mereka",
+      "client": "Project Based Learning",
+      "slug": "bantu-mereka",
+      "description": "The “Bantu Mereka” Donation Website is designed with the aim of providing an easy and fun means for benefactors to share their kindness with those in need. I am involved creating the frontend for the Articles page using the Laravel Framework and implementing the backend program (CRUD) for the Articles page using the Laravel Framework.",
+      "subImage": "",
+      "tech": ["Laravel", "MySQL"]
+    },
+    {
+      "image": "/images/work/work-img-5.png",
+      "title": "Meditech Pharmacy App",
+      "client": "Project Based Learning",
+      "slug": "meditech-pharmacy-app",
+      "description": "This Pharmacy website provides information about the number of employees, drug availability, and sales data, which can be accessed by the Admin. I ensured the API effectively bridges the customer and the pharmacy staff, handling up to 10 users per hour. Additionally, I implemented functionality to store the chat history in the database.",
+      "subImage": "",
+      "tech": ["PHP", "API"]
+    },
+    {
+      "image": "/images/work/work-img-6.png",
+      "title": "Yonsei Coop Android App",
+      "client": "Project Based Learning",
+      "slug": "yonsei-coop-app",
+      "description": "This project presents a UI design for a mobile app of Yonsei University cooperative platform that sells branded merchandise and goods. Designed for a seamless shopping experience, it allows users to easily browse and purchase university-themed items. In addition to the UI design, I developed core app functionalities including login, signup, and product API integration. Throughout the development process, I rigorously tested the app interface up to 20 times, ensuring its usability and functionality. Furthermore, I meticulously debugged and resolved issues to guarantee smooth app performance.",
+      "subImage": "",
+      "tech": ["Flutter", "Full Stack Development"]
+    },
+    {
+      "image": "/images/work/work-img-7.png",
+      "title": "Yonsei Coop Web Store",
+      "client": "Project Based Learning",
+      "slug": "yonsei-coop-web-store",
+      "description": "This project showcases a UI design for a Yonsei university cooperation website that sells merchandise and goods. The platform is designed to offer a seamless shopping experience for users, enabling them to browse and purchase various university-branded items. The website features intuitive navigation and a clean design to enhance user experience, detailed product pages with images, descriptions, and prices, and is optimized for both desktop and mobile devices.",
+      "subImage": "",
+      "tech": ["Laravel", "Bootstrap", "Frontend Development"]
+    },
+    {
+      "image": "/images/work/work-img-8.png",
+      "title": "Danone Site Redesign",
+      "client": "Project Based Learning",
+      "slug": "danone-site-redesign",
+      "description": "Danone is a multinational food-products corporation based in France. They are known for producing dairy products, including yogurt and dairy alternatives, as well as baby food and medical nutrition. I implemented the UI/UX redesign of the Danone Indonesia website using native HTML, CSS, and JS. This involved optimizing website performance to reduce load times and improve user experience. Additionally, I collaborated closely with designers to ensure pixel-perfect implementation of design mock-ups.",
+      "subImage": "",
+      "tech": ["Figma", "Bootstrap", "Frontend Development"]
+    }
+  ]
+}
