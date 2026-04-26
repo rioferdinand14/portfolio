@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 // Ensure this matches your repository name exactly
-const basePath = process.env.NODE_ENV === "production" ? "portfolio" : "";
+const basePath = process.env.NODE_ENV === "production" ? "/portfolio" : "";
 
 const nextConfig: NextConfig = {
   output: "export",
