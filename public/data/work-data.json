@@ -6,7 +6,7 @@
       "client": "Undergraduate Final Project",
       "slug": "music-recommendation-app",
       "description": "This project implements a content-based music recommendation system using Spotify audio features (tempo, valence, danceability, energy, and genre) to recommend songs based on musical similarity based on what the user likes. The system applies cosine similarity for interpretable, cold-start–friendly recommendations.The pipeline was built in python, deployed via Flask API, and integrated into a Laravel web application. Model quality was evaluated using Mean Opinion Score (MOS) to assess user-perceived relevance and expose the limitations of purely content-based approaches.",
-      "subImage1": "images/work/work-img-1-2.png",
+      "subImage1": "/images/work/work-img-1-2.png",
       "tech": ["Laravel", "Flask", "MySQL"],
       "category": "Fullstack Development and Machine Learning"
     },
@@ -36,7 +36,7 @@
       "client": "Project Based Learning",
       "slug": "bantu-mereka",
       "description": "The “Bantu Mereka” Donation Website is designed with the aim of providing an easy and fun means for benefactors to share their kindness with those in need. I am involved creating the frontend for the Articles page using the Laravel Framework and implementing the backend program (CRUD) for the Articles page using the Laravel Framework.",
-      "subImage1": "images/work/work-img-4-2.png",
+      "subImage1": "/images/work/work-img-4-2.png",
       "tech": ["Laravel", "MySQL"],
       "category": "Fullstack Development"
     },
@@ -56,7 +56,7 @@
       "client": "Project Based Learning",
       "slug": "yonsei-coop-app",
       "description": "This project presents a UI design for a mobile app of Yonsei University cooperative platform that sells branded merchandise and goods. Designed for a seamless shopping experience, it allows users to easily browse and purchase university-themed items. In addition to the UI design, I developed core app functionalities including login, signup, and product API integration.",
-      "subImage1": "images/work/work-img-6-2.png",
+      "subImage1": "/images/work/work-img-6-2.png",
       "tech": ["Flutter"],
       "category": "Mobile App Development"
     },
@@ -66,7 +66,7 @@
       "client": "Project Based Learning",
       "slug": "yonsei-coop-web-store",
       "description": "This project showcases a UI design for a Yonsei university cooperation website that sells merchandise and goods. The platform is designed to offer a seamless shopping experience for users, enabling them to browse and purchase various university-branded items. The website features intuitive navigation and a clean design to enhance user experience, detailed product pages with images, descriptions, and prices, and is optimized for both desktop and mobile devices.",
-      "subImage1": "images/work/work-img-7-2.png",
+      "subImage1": "/images/work/work-img-7-2.png",
       "tech": ["Laravel", "Bootstrap"],
       "category": "Frontend Development"
     }

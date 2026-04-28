@@ -1,12 +1,12 @@
 "use client";
-
+import { getDataPath } from "@/utils/image";
 import { useState } from "react";
 import Logo from "../logo";
 
 const Header = () => {
     const handleDownloadPDF = () => {
           const link = document.createElement("a");
-          link.href = "/portofolio/public/data/001_Rio_Ferdinand_CV.pdf";
+          link.href = getDataPath("/data/001_Rio_Ferdinand_CV.pdf");
           link.download = "001_Rio_Ferdinand_CV.pdf";
           document.body.appendChild(link);
           link.click();
