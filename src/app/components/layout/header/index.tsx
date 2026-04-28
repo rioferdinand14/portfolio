@@ -5,7 +5,12 @@ import Logo from "../logo";
 
 const Header = () => {
     const handleDownloadPDF = () => {
-        window.print();
+          const link = document.createElement("a");
+          link.href = "/portofolio/public/data/001_Rio_Ferdinand_CV.pdf";
+          link.download = "001_Rio_Ferdinand_CV.pdf";
+          document.body.appendChild(link);
+          link.click();
+          document.body.removeChild(link);
     };
     return (
         <header className="navbar top-0 left-0 z-999 w-full absolute">

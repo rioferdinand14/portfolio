@@ -137,27 +137,29 @@ const LatestWork = () => {
               <div className="w-full flex flex-col md:flex-row gap-8 p-6 md:p-10">
                 {/* LEFT SIDE: Visuals */}
                 <div className="flex-1 flex flex-col gap-4">
-                  <div className="overflow-hidden rounded-2xl border border-gray-100 shadow-sm">
+                  <div className="overflow-hidden rounded-md border border-gray-100 shadow-sm">
                     <Image
-                      src={getImgPath(showRegularModal?.subImage || "#!")}
+                      src={getImgPath(
+                        showRegularModal?.subImage1 || showRegularModal?.image,
+                      )}
                       alt="Main project"
-                      width={800}
-                      height={500}
+                      width={200}
+                      height={200}
                       className="w-full h-auto object-cover"
                     />
                   </div>
                   {/* Secondary Picture - You mentioned wanting another image */}
-                  <div className="overflow-hidden rounded-2xl border border-gray-100 shadow-sm opacity-90 hover:opacity-100 transition-opacity">
+                  {/* <div className="overflow-hidden rounded-2xl border border-gray-100 shadow-sm opacity-90 hover:opacity-100 transition-opacity">
                     <Image
                       src={getImgPath(
-                        showRegularModal?.subImage || showRegularModal?.image,
+                        showRegularModal?.subImage2 || showRegularModal?.image,
                       )}
                       alt="Secondary view"
                       width={800}
                       height={500}
                       className="w-full h-auto object-cover"
                     />
-                  </div>
+                  </div> */}
                 </div>
 
                 {/* RIGHT SIDE: Details */}
