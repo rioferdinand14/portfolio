@@ -1,6 +1,16 @@
 {
   "workData": [
     {
+      "image": "/images/work/work-img-6.png",
+      "title": "Yonsei Coop Android App",
+      "client": "Project Based Learning",
+      "slug": "yonsei-coop-app",
+      "description": "This project presents a UI design for a mobile app of Yonsei University cooperative platform that sells branded merchandise and goods. Designed for a seamless shopping experience, it allows users to easily browse and purchase university-themed items. In addition to the UI design, I developed core app functionalities including login, signup, and product API integration.",
+      "subImage1": "/images/work/work-img-6-2.png",
+      "tech": ["Flutter"],
+      "category": "Mobile App Development"
+    },
+    {
       "image": "/images/work/work-img-1.png",
       "title": "Music Recommendation App",
       "client": "Undergraduate Final Project",
@@ -49,16 +59,6 @@
       "subImage1": "",
       "tech": ["PHP"],
       "category": "Backend Development"
-    },
-    {
-      "image": "/images/work/work-img-6.png",
-      "title": "Yonsei Coop Android App",
-      "client": "Project Based Learning",
-      "slug": "yonsei-coop-app",
-      "description": "This project presents a UI design for a mobile app of Yonsei University cooperative platform that sells branded merchandise and goods. Designed for a seamless shopping experience, it allows users to easily browse and purchase university-themed items. In addition to the UI design, I developed core app functionalities including login, signup, and product API integration.",
-      "subImage1": "/images/work/work-img-6-2.png",
-      "tech": ["Flutter"],
-      "category": "Mobile App Development"
     },
     {
       "image": "/images/work/work-img-7.png",
